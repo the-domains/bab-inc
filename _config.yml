@@ -1,0 +1,24 @@
+typography_spectrum: 0.3576075106393546
+color:
+  brandStrength: 0.6232369060162455
+  lightness: 0.9349260355811566
+  saturation: 0.8018535408191383
+  rhythmicContrast: 0.6012692984659225
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+github: true
+layout_spectrum: 0.019769749604165554
+author:
+  name: B. Blackwell
+name: BAB Inc
+navigation:
+  - name: About Us
+    id: aea9bf5d-f7ff-454e-b42f-af7bf52bbe53
+    type: content
+title: BAB Inc
+content: []
+description: Services Provided
